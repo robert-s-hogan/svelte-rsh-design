@@ -15,7 +15,7 @@
       <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-64 md:h-36 w-full object-contain object-center" src="https://rshogan.imgix.net/projects/tailwindcss-cofee-shop/rsh_coffee_hero.png?auto=compress,format" alt="blog">
+            <img class="lg:h-64 md:h-36 w-full object-contain object-center" src="https://rshogan.imgix.net/projects/tailwindcss-cofee-shop/rsh_coffee_hero.png?auto=compress,format&w=400&h=256" alt="blog">
             <div class="p-6">
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Local Coffee Shop</h1>
               <p class="leading-relaxed mb-3">Sample coffee shop template using TailwindCSS, Gatsby, and hosted on Netlify.</p>
@@ -43,7 +43,7 @@
         </div>
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-64 md:h-36 w-full object-cover object-center" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-deck-project/deck_design.png?auto=compress,format" alt="blog">
+            <img class="lg:h-64 md:h-36 w-full object-cover object-center" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-deck-project/deck_design.png?auto=compress,format&w=400&h=256" alt="blog">
             <div class="p-6">
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Product Shop</h1>
               <p class="leading-relaxed mb-3">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
@@ -71,7 +71,7 @@
         </div>
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-64 md:h-36 w-full object-cover object-center" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-product-template/product_design.png?auto=compress,format" alt="blog">
+            <img class="lg:h-64 md:h-36 w-full object-cover object-center" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-product-template/product_design.png?auto=compress,format&w=400&h=256" alt="blog">
             <div class="p-6">
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Deck Project</h1>
               <p class="leading-relaxed mb-3">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
