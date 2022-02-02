@@ -57,7 +57,7 @@
 	<div class="flex justify-center" >
 
 			<img
-				src="https://res.cloudinary.com/dmfdjwwgb/image/upload/w_300,c_fill,ar_1:1,g_auto/v1630950348/robertshogan.com/J_R___T_8.21.21-31_copy_k9zia3.jpg"
+				src="https://rshogan.imgix.net/personal/img/J_R___T_8.21.21-31_copy_k9zia3.jpg?auto=compress,format,enhance&fit=crop&crop=faces&h=300&w=300"
 				class="rounded-lg"
 				alt=""
 			/>
