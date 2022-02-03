@@ -25,6 +25,7 @@
 
 <svelte:head>
 	<title>Home</title>
+	<meta name="description" content="Freelance Web Developer working in Sonoma County, CA." />
 </svelte:head>
 
 <header class="bg-white">
