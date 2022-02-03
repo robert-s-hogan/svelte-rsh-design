@@ -10,6 +10,7 @@
 	import Testimonials from "$lib/testimonials/Testimonials.svelte";
 	import Skills from "$lib/skills/Skills.svelte";
 	import Modal from "$lib/modal/Modal.svelte";
+import Collaborators from "$lib/collaborators/Collaborators.svelte";
 
 	let showPopup = false;
 
@@ -87,6 +88,8 @@
 <Skills />
 
 <MyRecentWork />
+
+<Collaborators />
 
 <Testimonials />
 

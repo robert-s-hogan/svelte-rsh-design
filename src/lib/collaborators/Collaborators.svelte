@@ -1,0 +1,20 @@
+<div class="max-w-5xl mx-auto py-24">
+
+    <h2 class="text-center text-black text-2xl font-bold mb-12">I'm proud to have collaborated with some awesome companies:</h2>
+
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 items-center">
+        <a href="https://www.onedemocracy.org/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/one_democracy.jpeg?auto=compress,format&h=50" alt="One Democracy Logo">
+        </a>
+        <a href="https://www.mgisolutions.com/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/mgi_solutions.svg?auto=compress,format&h=50" alt="MGI Solutions Logo">
+        </a>
+        <a href="https://anitaliandish.com/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/an_italian_dish.png?auto=compress,format&h=50&fit=crop&w=200" alt="An Italian Dish Logo">
+        </a>
+        <a href="https://www.thomashenrywines.com/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/thomas_henry_wines.png?auto=compress,format&h=50" alt="Thomas Henry Wines Logo">
+        </a>
+    </div>
+
+</div>
