@@ -1,6 +1,7 @@
 <script>
     import { fade, fly } from "svelte/transition";
     import { quintOut } from "svelte/easing";
+    import Form from "$lib/form/Form.svelte";
   
     export let open = false;
     export let showBackdrop = true;
@@ -50,26 +51,7 @@
                                     </div>
                                 </div>
 
-                                <form class="p-6 flex flex-col justify-center">
-                                    <div class="flex flex-col">
-                                        <label for="name" class="hidden">Full Name</label>
-                                        <input type="name" name="name" id="name" placeholder="Full Name" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-blue-500 focus:outline-none" />
-                                    </div>
-
-                                    <div class="flex flex-col mt-2">
-                                        <label for="email" class="hidden">Email</label>
-                                        <input type="email" name="email" id="email" placeholder="Email" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-blue-500 focus:outline-none" />
-                                    </div>
-
-                                    <div class="flex flex-col mt-2">
-                                        <label for="message" class="hidden">Message</label>
-                                        <textarea type="text" name="message" id="message" placeholder="What would you like to start building?" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-blue-500 focus:outline-none" />
-                                    </div>
-
-                                    <button type="submit" class="md:w-32 bg-primary-900 hover:bg-blue-dark text-white font-bold py-3 px-6 rounded-lg mt-3 hover:bg-blue-500 transition ease-in-out duration-300">
-                                        Submit
-                                    </button>
-                                </form>
+                                <Form />
                             </div>
                         </div>
                 </div>
