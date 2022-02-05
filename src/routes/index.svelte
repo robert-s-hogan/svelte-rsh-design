@@ -5,7 +5,6 @@
 <script lang="ts">
 	import Header from "$lib/header/Header.svelte";
 	import { page } from '$app/stores';
-	import rshLogo from '$lib/header/RH_logo_black.png';
 	import MyRecentWork from "$lib/myRecentWork/MyRecentWork.svelte";
 	import Testimonials from "$lib/testimonials/Testimonials.svelte";
 	import Skills from "$lib/skills/Skills.svelte";
@@ -34,7 +33,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 		<div class="flex justify-between text-white p-4 lg:px-0 text-2xl max-w-4xl">
 
 			<a sveltekit:prefetch href="/" class="flex items-center justify-center">
-				<img src={rshLogo} class="object-contain h-12 w-12" alt="Robert Hogan's Logo" />
+				<img src="https://rshogan.imgix.net/personal/sites/roberthogan.dev/RH_logo_black.png" class="object-contain h-12 w-12" alt="Robert Hogan's Logo" />
 			</a>
 			<nav class="flex justify-center">
 				<a class:active={$page.url.pathname === '/#say-hello'} sveltekit:prefetch href="/#say-hello">
@@ -94,7 +93,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 <Testimonials />
 
 <!-- <StartAProject /> -->
-<section class="pb-32 text-white text-center">
+<section class="pb-32 -mt-32 md:-mt-24 lg:-mt-16 text-white text-center">
 	<div class="bg-gradient-to-r from-primary-900 to-primary-500 max-w-7xl w-5/6 mx-auto bg-gray-700 text-white rounded-lg shadow-lg overflow-hidden">
 		<div class="flex flex-col md:flex-row md:space-x-6 w-3/4 mx-auto justify-center py-12">
 				<h2 class="text-white text-2xl font-bold md:w-1/4">

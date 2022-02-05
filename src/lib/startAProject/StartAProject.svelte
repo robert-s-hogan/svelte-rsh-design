@@ -1,5 +1,5 @@
 <!-- Start a Project -->
-<section class="pb-32 text-white text-center">
+<section class="pb-32 -mt-64 text-white text-center">
 	<div class="bg-gradient-to-r from-primary-900 to-primary-500 max-w-7xl w-5/6 mx-auto bg-gray-700 text-white rounded-lg shadow-lg overflow-hidden">
 		<div class="flex flex-col md:flex-row md:space-x-6 w-3/4 mx-auto justify-center py-12">
 				<h2 class="text-white text-2xl font-bold md:w-1/4">
