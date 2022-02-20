@@ -4,7 +4,7 @@
 
     <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 items-center">
         <a href="https://www.onedemocracy.org/" target="_blank" rel="nofollower">
-            <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/one_democracy.jpeg?auto=compress,format&h=50" alt="One Democracy Logo">
+            <img class="mx-auto" src="https://rshogan.imgix.net/clients/one-democracy/od_logo.png?auto=compress,format&h=50" alt="One Democracy Logo">
         </a>
         <a href="https://www.mgisolutions.com/" target="_blank" rel="nofollower">
             <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/mgi_solutions.svg?auto=compress,format&h=50" alt="MGI Solutions Logo">
@@ -15,6 +15,11 @@
         <a href="https://www.thomashenrywines.com/" target="_blank" rel="nofollower">
             <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/thomas_henry_wines.png?auto=compress,format&h=50" alt="Thomas Henry Wines Logo">
         </a>
+        <a href="https://www.thekrealty.com/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/clients/priti-kothari/priti_logo-removebg-preview.png?auto=compress,format&h=75" alt="K Realty Logo">
+        </a>
+        <a href="https://ticketsaver.net/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/clients/ticket-saver/logo-nobg.jpg?auto=compress,format&h=75" alt="Ticket Saver Logo">
+        </a>
     </div>
-
 </div>
