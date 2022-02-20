@@ -10,7 +10,7 @@
             <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/mgi_solutions.svg?auto=compress,format&h=50" alt="MGI Solutions Logo">
         </a>
         <a href="https://anitaliandish.com/" target="_blank" rel="nofollower">
-            <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/an_italian_dish.png?auto=compress,format&h=50&fit=crop&w=200" alt="An Italian Dish Logo">
+            <img class="mx-auto" src="https://rshogan.imgix.net/clients/AnItalianDish.com/an_italian_dish-removebg-preview.png?auto=compress,format&h=50&fit=crop&w=200" alt="An Italian Dish Logo">
         </a>
         <a href="https://www.thomashenrywines.com/" target="_blank" rel="nofollower">
             <img class="mx-auto" src="https://rshogan.imgix.net/personal/img/thomas_henry_wines.png?auto=compress,format&h=50" alt="Thomas Henry Wines Logo">
