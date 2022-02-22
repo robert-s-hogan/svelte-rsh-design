@@ -2,7 +2,7 @@
 
     <h2 class="text-center text-black text-2xl font-bold mb-12">I'm proud to have collaborated with some awesome companies:</h2>
 
-    <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 items-center">
+    <div class="grid grid-cols-2 lg:grid-cols-3 gap-8 items-center">
         <a href="https://www.onedemocracy.org/" target="_blank" rel="nofollower">
             <img class="mx-auto" src="https://rshogan.imgix.net/clients/one-democracy/od_logo.png?auto=compress,format&h=50" alt="One Democracy Logo">
         </a>
