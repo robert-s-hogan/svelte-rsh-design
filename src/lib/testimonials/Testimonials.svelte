@@ -10,7 +10,7 @@
       <img class="object-cover w-16 h-16 mx-auto rounded-full" alt="User avatar" src="https://rshogan.imgix.net/personal/img/rshhogan_testimonials_ellen_2.jpeg?auto=compress,format&fit=crop&crop=faces&h=100&w=100">
 
       <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm mt-3">Ellen S.</h2>
-      <p class="text-gray-500"><a href="https://anitaliandish.com/">AnItalianDish.com</a></p>
+      <p class="text-gray-500"><a class="text" href="https://anitaliandish.com/">AnItalianDish.com</a></p>
     </div>
   </div>
 </section>

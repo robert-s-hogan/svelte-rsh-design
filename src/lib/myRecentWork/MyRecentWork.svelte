@@ -1,16 +1,10 @@
-<script>
-  import Deck from './deck_design.png';
-  import Product from './product_design.png';
-</script>
-
-
 <section class="text-gray-600 body-font bg-white">
     <div class="container px-5 py-24 mx-auto">
       <h2 class="font-bold mb-4 text-center">My Recent Work</h2>
       <p class="mb-16 text-center">
         Here are a few design projects I've worked on recently. Want
         to see more?{" "}
-        <a href="mailto:robert@robertshogan.com" class="text-tertiary-100">Email me</a>.
+        <a href="mailto:robert@robertshogan.com" class="text">Email me</a>.
       </p>
       <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/3">
@@ -20,7 +14,7 @@
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Local Coffee Shop</h1>
               <p class="leading-relaxed mb-3">Sample coffee shop for local businesses to connect with their customers.</p>
               <div class="flex items-center flex-wrap ">
-                <a target="_blank" rel="nofollower noopener"  href="https://rshcom-coffee-template.netlify.app/" class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Preview Site
+                <a target="_blank" rel="nofollower noopener"  href="https://rshcom-coffee-template.netlify.app/" class="text text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Preview Site
                   <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14"></path>
                     <path d="M12 5l7 7-7 7"></path>
@@ -48,7 +42,7 @@
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Product Shop</h1>
               <p class="leading-relaxed mb-3">Sample product shop for local businesses to promote their product and sell online.</p>
               <div class="flex items-center flex-wrap">
-                <a target="_blank" rel="nofollower noopener" href="https://rshogan-svelte-tailwindcss-product-template.vercel.app/" class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Preview Site
+                <a target="_blank" rel="nofollower noopener" href="https://rshogan-svelte-tailwindcss-product-template.vercel.app/" class="text text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Preview Site
                   <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M5 12h14"></path>
                     <path d="M12 5l7 7-7 7"></path>
@@ -110,7 +104,7 @@
 	<p class="mb-6 text-white">
 		Here are a few design projects I've worked on recently. Want
 		to see more?{" "}
-		<a href="mailto:robert@robertshogan.com" class="text-tertiary-100">Email me</a>.
+		<a href="mailto:robert@robertshogan.com">Email me</a>.
 	</p>
 	<div class="relative mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
 		<div class="border-2 mt-8 shadow-lg group container  rounded-md bg-white max-w-sm flex justify-center items-center  mx-auto content-div">

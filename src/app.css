@@ -130,5 +130,28 @@ code {
 }
 
 a {
-	@apply underline text-primary-100 hover:text-secondary-500 visited:text-primary-900;
+	@apply text-vivid-400 hover:text-vivid-600 visited:text-vivid-400 relative;
+}
+
+a:hover,
+a:hover img {
+	@apply hover:no-underline;
+}
+
+a.text::after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	transform: scaleX(0);
+	border-radius: 2px;
+	height: 0.1em;
+	bottom: -4px;
+	left: 0;
+	background: currentcolor;
+	transform-origin: bottom right;
+	transition: transform 0.25s ease-out;
+}
+a.text:hover::after {
+	transform: scaleX(1);
+	transform-origin: bottom left;
 }

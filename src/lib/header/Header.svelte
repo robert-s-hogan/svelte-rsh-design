@@ -12,7 +12,7 @@
 			</a>
 			<nav class="flex justify-center">
 				<a class:active={$page.url.pathname === '/#say-hello'} sveltekit:prefetch href="/#say-hello">
-					<button class="text-sm border-2 inline-block align-middle border-primary-500 hover:text-primary-500 hover:bg-transparent bg-primary-500 text-white ease-in-out duration-200 font-bold py-2 px-6 rounded-full">
+					<button class="text-sm border-2 inline-block align-middle border-vivid-500 hover:text-vivid-500 hover:bg-transparent bg-vivid-500 text-white ease-in-out duration-200 font-bold py-2 px-6 rounded-full">
 						Say Hello
 					</button>
 				</a>

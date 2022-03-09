@@ -36,22 +36,20 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 				<img src="https://rshogan.imgix.net/personal/sites/roberthogan.dev/RH_logo_black.png" class="object-contain h-12 w-12" alt="Robert Hogan's Logo" />
 			</a>
 			<nav class="flex justify-center">
-				<a class:active={$page.url.pathname === '/#say-hello'} sveltekit:prefetch href="/#say-hello">
-					<button on:click={onShowPopup} class="text-sm border-2 inline-block align-middle border-primary-500 hover:text-primary-500 hover:bg-transparent bg-primary-500 text-white ease-in-out duration-200 font-bold py-2 px-6 rounded-full">
+					<button on:click={onShowPopup} class="text-sm border-2 inline-block align-middle border-vivid-500 hover:text-vivid-500 hover:bg-transparent bg-vivid-500 text-white ease-in-out duration-200 font-bold py-2 px-6 rounded-full">
 						Say Hello
 					</button>
-				</a>
 			</nav>
 		</div>
 	</div>	
 </header>
 
 <!-- Hero -->
-<div class="hero max-h-full bg-tertiary-500 py-24">
-	<h1 class="text-3xl font-bold text-center pb-4">
+<div class="hero max-h-full bg-gradient-to-br from-primary-900 to-primary-700 py-24">
+	<h1 class="text-3xl font-bold text-center pb-4 text-white">
 		Web Developer, UI/UX Engineer
 	</h1>
-	<p class="text-center mb-12">
+	<p class="text-center mb-12 text-white">
 		I design and code beautifully simple things, and I love what
 		I do.
 	</p>
@@ -94,7 +92,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 
 <!-- <StartAProject /> -->
 <section class="pb-32 -mt-32 md:-mt-24 lg:-mt-16 text-white text-center">
-	<div class="bg-gradient-to-r from-primary-900 to-primary-500 max-w-7xl w-5/6 mx-auto bg-gray-700 text-white rounded-lg shadow-lg overflow-hidden">
+	<div class="bg-gradient-to-r from-vivid-900 to-vivid-600 max-w-7xl w-5/6 mx-auto bg-gray-700 text-white rounded-lg shadow-lg overflow-hidden">
 		<div class="flex flex-col md:flex-row md:space-x-6 w-3/4 mx-auto justify-center py-12">
 				<h2 class="text-white text-2xl font-bold md:w-1/4">
 					Start a project
