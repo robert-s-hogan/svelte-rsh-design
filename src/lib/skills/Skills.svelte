@@ -1,14 +1,14 @@
 <!-- CARDS -->
 <section class="py-24 bg-primary-900">
 	<div class="px-4 max-w-7xl mx-auto">
-		<div class="grid grid-cols-1 md:grid-cols-3 gap-x-4">
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-4">
 				<div class="p-6 overflow-hidden text-center border-2 border-white rounded hover:border-tertiary-500">
 					<svg xmlns="http://www.w3.org/2000/svg" class="object-center h-24 mx-auto text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width={1} d="M13 10V3L4 14h7v7l9-11h-7z" />
 					  </svg>
 					<div class="p-4 h-auto">
 						<h3 class="font-semibold text-white">Fast</h3>
-						<div class="text-white text-sm text-center leading-relaxed block md:text-xs lg:text-sm">
+						<div class="text-white text-md text-center leading-relaxed block lg:text-sm">
 							Fast load times and lag free
 							interaction, my highest priority.
 						</div>
@@ -20,7 +20,7 @@
 					  </svg>
 					<div class="p-4 h-auto">
 						<h3 class="font-semibold text-white">Intuitive</h3>
-						<div class="text-white text-sm text-center leading-relaxed block md:text-xs lg:text-sm">
+						<div class="text-white text-md text-center leading-relaxed block lg:text-sm">
 							Strong preference for easy to use,
 							intuitive UX/UI.
 						</div>
@@ -34,7 +34,7 @@
 						<h3 class="font-semibold text-white">
 							Responsive
 						</h3>
-						<div class="text-white text-sm text-center leading-relaxed block md:text-xs lg:text-sm">
+						<div class="text-white text-md text-center leading-relaxed block lg:text-sm">
 							My layouts will work on any device, big
 							or small.
 						</div>
@@ -48,7 +48,7 @@
 						<h3 class="font-semibold text-white">
 							Optimize Digital Marketing
 						</h3>
-						<div class="text-white text-sm text-center leading-relaxed block md:text-xs lg:text-sm">
+						<div class="text-white text-md text-center leading-relaxed block lg:text-sm">
 							Constantly improving your digital
 							footprint by testing, analyzing, and
 							implementing.
