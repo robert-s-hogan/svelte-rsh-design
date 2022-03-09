@@ -36,7 +36,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 				<img src="https://rshogan.imgix.net/personal/sites/roberthogan.dev/RH_logo_black.png" class="object-contain h-12 w-12" alt="Robert Hogan's Logo" />
 			</a>
 			<nav class="flex justify-center">
-					<button on:click={onShowPopup} class="text-sm border-2 inline-block align-middle border-vivid-500 hover:text-vivid-500 hover:bg-transparent bg-vivid-500 text-white ease-in-out duration-200 font-bold py-2 px-6 rounded-full">
+					<button on:click={onShowPopup}>
 						Say Hello
 					</button>
 			</nav>
@@ -101,7 +101,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 					Interested in working together? <span class="md:block"></span>We should queue up a
 					chat. I’ll buy the coffee.
 				</p>
-				<button on:click={onShowPopup} class="rounded-full w-1/2 mx-auto mt-6 md:mt-0 md:py-0 md:rounded-full py-3 px-4 md:px-10 text-gray-100 font-semibold border-2 md:w-1/4">
+				<button on:click={onShowPopup} class="w-1/2 mx-auto mt-6 md:mt-0 md:py-0 md:rounded-full py-3 px-4 md:px-10 border-2 md:w-1/4 hover:bg-white hover:text-vivid-500">
 					Let's do this
 				</button>
 		</div>

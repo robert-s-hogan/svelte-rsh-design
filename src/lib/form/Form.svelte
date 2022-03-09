@@ -86,7 +86,7 @@ import { onMount } from 'svelte';
         <textarea id="message" name="message" required="" placeholder="What would you like to start building?" class="w-100 mt-2 py-3 px-3 rounded-lg bg-white dark:bg-gray-800 border border-gray-400 dark:border-gray-700 text-gray-800 font-semibold focus:border-blue-500 focus:outline-none" />
     </div>
 
-    <button type="submit" class="md:w-32 bg-primary-900 hover:bg-blue-dark text-white font-bold py-3 px-6 rounded-lg mt-3 hover:bg-blue-500 transition ease-in-out duration-300">
+    <button type="submit" class="md:w-32 font-bold py-3 px-6 rounded-lg mt-3">
         Submit
     </button>
 </form>
