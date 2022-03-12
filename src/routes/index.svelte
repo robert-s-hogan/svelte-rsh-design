@@ -33,7 +33,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 		<div class="flex justify-between text-white p-4 lg:px-0 text-2xl max-w-4xl">
 
 			<a sveltekit:prefetch href="/" class="flex items-center justify-center">
-				<img src="https://rshogan.imgix.net/personal/sites/roberthogan.dev/RH_logo_black.png" class="object-contain h-12 w-12" alt="Robert Hogan's Logo" />
+				<img src="https://rshogan.imgix.net/personal/logos/rsh_logo_cropped_2.jpg?auto=compress,format,enhance&h=50&fit=crop&crop=focalpoint&fp-z=2" class="" alt="Robert Hogan's Logo" />
 			</a>
 			<nav class="flex justify-center">
 					<button on:click={onShowPopup}>
