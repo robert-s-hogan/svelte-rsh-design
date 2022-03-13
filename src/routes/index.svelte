@@ -61,6 +61,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 				https://rshogan.imgix.net/personal/img/J_R___T_8.21.21-31_copy_k9zia3.jpg?auto=compress,format,enhance&fit=crop&crop=faces&h=300&w=300 768w,
 				https://rshogan.imgix.net/personal/img/J_R___T_8.21.21-31_copy_k9zia3.jpg?auto=compress,format,enhance&fit=crop&crop=faces&h=300&w=300 640w"
 				sizes="50vw"
+				loading="lazy"
 				class="rounded-lg"
 				height={300}
 				width={300}
