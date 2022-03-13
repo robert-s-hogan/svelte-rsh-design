@@ -29,7 +29,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 </svelte:head>
 
 <header class="bg-white">
-	<div class="w-full mx-auto py-4 lg:px-0 text-2xl lg:max-w-4xl ">
+	<div class="w-full mx-auto py-1 md:py-4 lg:px-0 text-2xl lg:max-w-4xl ">
 		<div class="flex justify-between text-white p-4 lg:px-0 text-2xl max-w-4xl">
 
 			<a sveltekit:prefetch href="/" class="flex items-center justify-center">
@@ -45,7 +45,7 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 </header>
 
 <!-- Hero -->
-<div class="hero max-h-full bg-gradient-to-br from-primary-900 to-primary-700 py-24">
+<div class="hero max-h-full bg-gradient-to-br from-primary-900 to-primary-700 py-12 md:py-24">
 	<h1 class="text-3xl font-bold text-center pb-4 text-white">
 		Web Developer, UI/UX Engineer
 	</h1>
