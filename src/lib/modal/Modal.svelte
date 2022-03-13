@@ -23,8 +23,8 @@
             <div class="bg-white border-2 rounded-lg shadow-lg relative flex flex-col w-full outline-none focus:outline-none">
                 <div class="modal-body relative p-6 flex-auto">
                         <div class="overflow-hidden">
-                            <button type="button" class="close absolute top-0 right-0 my-1" data-dismiss="modal" aria-label="Close" on:click={() => modalClose('close')}>
-                                <span class="text-5xl text-right font-light p-4" aria-hidden="true">&times;</span>
+                            <button type="button" class="border-0 close absolute top-0 right-0 my-1" data-dismiss="modal" aria-label="Close" on:click={() => modalClose('close')}>
+                                <span class="text-5xl font-light text-right  text-black" aria-hidden="true">&times;</span>
                             </button>
                             <div class="grid grid-cols-1 md:grid-cols-2">
                                 <div class="p-6 mr-2 bg-gray-100 dark:bg-gray-800 sm:rounded-lg">
