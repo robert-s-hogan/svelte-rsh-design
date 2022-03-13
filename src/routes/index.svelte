@@ -46,6 +46,13 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 
 <!-- Hero -->
 <div class="hero max-h-full bg-gradient-to-br from-primary-900 to-primary-700 py-8 md:py-24 space-y-4">
+	<h1 class="text-xl md:text-3xl font-bold text-center text-white md:order-1">
+		Web Developer, UI/UX Engineer
+	</h1>
+	<p class="text-center text-white">
+		I design and code beautifully simple things, and I love what
+		I do.
+	</p>
 	<div class="flex justify-center" >
 		<img
 			srcset="https://rshogan.imgix.net/personal/img/J_R___T_8.21.21-31_copy_k9zia3.jpg?auto=compress,format,enhance&fit=crop&crop=faces&h=300&w=300 1280w,
@@ -58,14 +65,8 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 			width={300}
 			alt="Robert's Professional Shot"
 		/>
-</div>
-	<h1 class="text-xl md:text-3xl font-bold text-center text-white md:order-1">
-		Web Developer, UI/UX Engineer
-	</h1>
-	<p class="text-center text-white">
-		I design and code beautifully simple things, and I love what
-		I do.
-	</p>
+	</div>
+
 </div>
 
 <!-- Nice to Meet You -->
