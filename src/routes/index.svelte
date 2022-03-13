@@ -29,11 +29,11 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 </svelte:head>
 
 <header class="bg-white">
-	<div class="w-full mx-auto p-4 lg:px-0 text-2xl lg:max-w-4xl ">
+	<div class="w-full mx-auto py-4 lg:px-0 text-2xl lg:max-w-4xl ">
 		<div class="flex justify-between text-white p-4 lg:px-0 text-2xl max-w-4xl">
 
 			<a sveltekit:prefetch href="/" class="flex items-center justify-center">
-				<img src="https://rshogan.imgix.net/personal/logos/rsh_logo_Crop.jpg?auto=compress,format&h=50" height={50} class="" alt="Robert Hogan's Logo" />
+				<img src="https://rshogan.imgix.net/personal/logos/rsh_logo_Crop.jpg?auto=compress,format&h=40&w=48" width={48} height={40} class="" alt="Robert Hogan's Logo" />
 			</a>
 			<nav class="flex justify-center">
 					<button on:click={onShowPopup}>
@@ -58,6 +58,8 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 			<img
 				src="https://rshogan.imgix.net/personal/img/J_R___T_8.21.21-31_copy_k9zia3.jpg?auto=compress,format,enhance&fit=crop&crop=faces&h=300&w=300"
 				class="rounded-lg"
+				height={300}
+				width={300}
 				alt=""
 			/>
 	</div>
