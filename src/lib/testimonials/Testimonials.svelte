@@ -7,7 +7,7 @@
       <p class="leading-relaxed text-lg">Robert helped me create a website and set up my blog. I had zero experience and had no idea how to go about it. Thanks to Robert's help, my site is up and running, and I am very pleased with how it looks. Robert was so patient and knowledgeable. He made the process easy and enjoyable. I highly recommend Robert!</p>
       <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6">
       </span>
-      <img class="object-cover w-16 h-16 mx-auto rounded-full" alt="User avatar" src="https://rshogan.imgix.net/personal/img/rshhogan_testimonials_ellen_2.jpeg?auto=compress,format&fit=crop&crop=faces&h=100&w=100">
+      <img class="object-cover w-16 h-16 mx-auto rounded-full" alt="Woman Testimonial Portrait" src="https://rshogan.imgix.net/personal/img/rshhogan_testimonials_ellen_2.jpeg?auto=compress,format&fit=crop&crop=faces&h=100&w=100">
 
       <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm mt-3">Ellen S.</h2>
       <p class="text-gray-500"><a class="text" href="https://anitaliandish.com/">AnItalianDish.com</a></p>

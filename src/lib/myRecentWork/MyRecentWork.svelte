@@ -9,7 +9,7 @@
       <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-64 md:h-36 w-full object-contain object-center" loading="lazy" src="https://rshogan.imgix.net/projects/tailwindcss-cofee-shop/rsh_coffee_hero.png?auto=compress,format&w=400&h=256" height={256} width={400} alt="blog">
+            <img class="lg:h-64 md:h-36 w-full object-contain object-center" loading="lazy" src="https://rshogan.imgix.net/projects/tailwindcss-cofee-shop/rsh_coffee_hero.png?auto=compress,format&w=400&h=256" height={256} width={400} alt="Local Coffee Shop Template">
             <div class="p-6">
               <h3 class="title-font text-lg font-medium text-gray-900 mb-3">Local Coffee Shop</h3>
               <p class="leading-relaxed mb-3">Sample coffee shop for local businesses to connect with their customers.</p>
@@ -38,7 +38,7 @@
         </div>
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-64 md:h-36 w-full object-cover object-center" loading="lazy" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-product-template/product_design.png?auto=compress,format&w=400&h=256" height={256} width={400} alt="blog">
+            <img class="lg:h-64 md:h-36 w-full object-cover object-center" loading="lazy" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-product-template/product_design.png?auto=compress,format&w=400&h=256" height={256} width={400} alt="Product Shop Template">
             <div class="p-6">
               <h3 class="title-font text-lg font-medium text-gray-900 mb-3">Product Shop</h3>
               <p class="leading-relaxed mb-3">Sample product shop for local businesses to promote their product and sell online.</p>
@@ -66,7 +66,7 @@
         </div>
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
-            <img class="lg:h-64 md:h-36 w-full object-cover object-center" loading="lazy" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-deck-project/deck_design.png?auto=compress,format&w=400&h=256" height={256} width={400} alt="blog">
+            <img class="lg:h-64 md:h-36 w-full object-cover object-center" loading="lazy" src="https://rshogan.imgix.net/projects/svelte-tailwindcss-deck-project/deck_design.png?auto=compress,format&w=400&h=256" height={256} width={400} alt="Construction Site Template">
             <div class="p-6">
               <h3 class="title-font text-lg font-medium text-gray-900 mb-3">Construction Site</h3>
               <p class="leading-relaxed mb-3">Sample construction site for local businesses to show off their work!</p>
@@ -113,7 +113,7 @@
 				<div class="w-full rounded-t-md z-1">
 					<img
 						src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1640826597/robertshogan.com/rsh_coffee_hero_ebqcm4.png"
-						alt=""
+						alt="Local Coffee Shop Template"
 						class="group-hover:opacity-25 p-6"
 					/>
 				</div>

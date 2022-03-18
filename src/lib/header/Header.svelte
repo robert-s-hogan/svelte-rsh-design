@@ -7,7 +7,7 @@
 		<div class="flex justify-between text-white p-4 lg:px-0 text-2xl max-w-4xl">
 
 			<a sveltekit:prefetch href="/" class="flex items-center justify-center">
-				<img src="https://rshogan.imgix.net/personal/logos/rsh_logo.jpg?auto=compress,format" class="object-contain h-12 w-12" alt="Robert Hogan's Logo" />
+				<img src="https://rshogan.imgix.net/personal/logos/rsh_logo.jpg?auto=compress,format" class="object-contain h-12 w-12" alt="robertshogan's Logo" />
 			</a>
 			<nav class="flex justify-center">
 				<a class:active={$page.url.pathname === '/#say-hello'} sveltekit:prefetch href="/#say-hello">
