@@ -1,8 +1,8 @@
-<div class="max-w-5xl mx-auto py-24">
+<div class="max-w-7xl mx-auto py-24 justify-center">
 
     <h2 class="text-center text-black text-2xl font-bold mb-12">I'm proud to have collaborated with some awesome companies:</h2>
 
-    <div class="grid grid-cols-2 lg:grid-cols-3 gap-8 items-center">
+    <div class="grid grid-cols-2 lg:grid-cols-7 gap-8 items-center">
         <a href="https://www.onedemocracy.org/" target="_blank" rel="nofollower">
             <img class="mx-auto" src="https://rshogan.imgix.net/clients/one-democracy/od_logo.png?auto=compress,format&h=50&w=87" height={50} width={87} loading="lazy" alt="One Democracy Logo">
         </a>
@@ -21,5 +21,10 @@
         <a href="https://ticketsaver.net/" target="_blank" rel="nofollower">
             <img class="mx-auto" src="https://rshogan.imgix.net/clients/ticket-saver/logo-nobg.jpg?auto=compress,format&h=75&w=193" height={75} width={193} loading="lazy" alt="Ticket Saver Logo">
         </a>
+        <a href="https://www.jessicahoganma.cin/" target="_blank" rel="nofollower">
+            <img class="mx-auto" src="https://rshogan.imgix.net/personal/logos/jh_logo_white.png?auto=compress,format&h=50&w=89" height={50} width={89} loading="lazy" alt="Jessica Hogan MA Logo">
+        </a>
+
+        
     </div>
 </div>
