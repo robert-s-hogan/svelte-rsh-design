@@ -24,8 +24,8 @@ import Collaborators from "$lib/collaborators/Collaborators.svelte";
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Freelance Web Developer working in Sonoma County, CA." />
+	<title>Web Developer, UI/UX Engineer | Sonoma County, CA - Robertshogan.com</title>
+	<meta name="description" content="Web Developer, UI/UX Engineer.  I design and code beautifully simple things, and I love what I do.  Freelance Web Developer working in Sonoma County, CA." />
 </svelte:head>
 
 <header class="bg-white">
