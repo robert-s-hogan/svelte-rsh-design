@@ -4,13 +4,13 @@
 
 <script lang="ts">
 	import Header from "$lib/header/Header.svelte";
-	import { page } from '$app/stores';
+	// import { page } from '$app/stores';
 	import MyRecentWork from "$lib/myRecentWork/MyRecentWork.svelte";
 	import Testimonials from "$lib/testimonials/Testimonials.svelte";
 	import Skills from "$lib/skills/Skills.svelte";
 	import Modal from "$lib/modal/Modal.svelte";
 	import Collaborators from "$lib/collaborators/Collaborators.svelte";
-	import Hero from "$lib/img/rsh_hero.jpeg";
+	import Hero from "$lib/img/rsh_hero.avif";
 
 	let showPopup = false;
 
