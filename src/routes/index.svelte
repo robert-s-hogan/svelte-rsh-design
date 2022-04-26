@@ -5,7 +5,6 @@
 <script lang="ts">
 	import Header from "$lib/header/Header.svelte";
 	// import { page } from '$app/stores';
-	import Image from 'svelte-image';
 	import MyRecentWork from "$lib/myRecentWork/MyRecentWork.svelte";
 	import Testimonials from "$lib/testimonials/Testimonials.svelte";
 	import Skills from "$lib/skills/Skills.svelte";
@@ -23,7 +22,6 @@
 
 		console.log(data);
 	} 
-
 </script>
 
 <svelte:head>
@@ -56,9 +54,10 @@
 		I design and code beautifully simple things, and I love what
 		I do.
 	</p>
-	<div class="flex justify-center md:w-1/4 lg:w-1/6 mx-auto" >
-		<Image
+	<div class="flex justify-center" >
+		<img
 			src={Hero}
+			sizes="50vw"
 			class="rounded-lg"
 			height={300}
 			width={300}
