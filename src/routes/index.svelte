@@ -56,7 +56,7 @@
 	</p>
 	<div class="flex justify-center" >
 		<img
-			src={Hero}
+			src="https://rshogan.imgix.net/personal/img/J_R___T_8.21.21-31_copy_k9zia3.jpg?auto=compress,format,enhance&fit=crop&crop=faces&h=300&w=300"
 			sizes="50vw"
 			class="rounded-lg"
 			height={300}
