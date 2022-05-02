@@ -3,6 +3,9 @@
 </script>
 
 <script lang="ts">
+
+	import { MetaTags } from 'svelte-meta-tags';
+
 	import Header from "$lib/header/Header.svelte";
 	// import { page } from '$app/stores';
 	import MyRecentWork from "$lib/myRecentWork/MyRecentWork.svelte";
@@ -28,6 +31,47 @@
 	<title>Web Developer, UI/UX Engineer | Sonoma County, CA - Robertshogan.com</title>
 	<meta name="description" content="Web Developer, UI/UX Engineer.  I design and code beautifully simple things, and I love what I do.  Freelance Web Developer working in Sonoma County, CA." />
 </svelte:head>
+
+<MetaTags
+  title="Using More of Config"
+  titleTemplate="%s | Svelte Meta Tags"
+  description="This example uses more of the available config options."
+  canonical="https://www.canonical.ie/"
+  openGraph={{
+    url: 'https://www.url.ie/a',
+    title: 'Open Graph Title',
+    description: 'Open Graph Description',
+    images: [
+      {
+        url: 'https://www.example.ie/og-image-01.jpg',
+        width: 800,
+        height: 600,
+        alt: 'Og Image Alt'
+      },
+      {
+        url: 'https://www.example.ie/og-image-02.jpg',
+        width: 900,
+        height: 800,
+        alt: 'Og Image Alt Second'
+      },
+      { url: 'https://www.example.ie/og-image-03.jpg' },
+      { url: 'https://www.example.ie/og-image-04.jpg' }
+    ],
+    site_name: 'SiteName'
+  }}
+  twitter={{
+    handle: '@handle',
+    site: '@site',
+    cardType: 'summary_large_image',
+    title: 'Using More of Config',
+    description: 'This example uses more of the available config options.',
+    image: 'https://www.example.ie/twitter-image.jpg',
+    imageAlt: 'Twitter image alt'
+  }}
+  facebook={{
+    appId: '1234567890'
+  }}
+/>
 
 <header class="bg-white">
 	<div class="w-full mx-auto py-0 md:py-4 lg:px-0 text-lg md:text-2xl lg:max-w-4xl ">
